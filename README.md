@@ -4,6 +4,14 @@ Resourcepack for 4CD Tech modpack
 This resourcepack is based on Faithful 32x32, adding textures to items and blocks from other mods to complete initial resourcepack
 
 --------------------------------------------------------------------------------
+v1.2
+
++ Added textures for wrenches from IC2, TE, BC, Forestry
++ Added textures for gate copiers from BC
++ Added textures for tanks from BC and Galacticraft
++ Added texture for toolbox from IC2
++ Added texture for advanced drill from Gravitation Suite
+
 v1.1.1
 
 + Added textures for dusts and rubber from IC2
