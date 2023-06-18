@@ -6,7 +6,7 @@ This resourcepack is based on Faithful 32x32, adding textures to items and block
 --------------------------------------------------------------------------------
 v1.2
 
-+ Added textures for wrenches from IC2, TE, BC, Forestry
++ Added textures for wrenches from TE, BC, Forestry
 + Added textures for gate copiers from BC
 + Added textures for tanks from BC and Galacticraft
 + Added texture for toolbox from IC2
