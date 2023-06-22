@@ -4,6 +4,11 @@ Resourcepack for 4CD Tech modpack
 This resourcepack is based on Faithful 32x32, adding textures to items and blocks from other mods to complete initial resourcepack
 
 --------------------------------------------------------------------------------
+v1.2.1
+
++ Added textures for resin, plant ball, circuits, cf powder, and reinforced glass from IC2
++ Fixed soul lantern not being replaced with new textures
+
 v1.2
 
 + Added textures for wrenches from TE, BC, Forestry
