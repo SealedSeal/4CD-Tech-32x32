@@ -4,6 +4,19 @@ Resourcepack for 4CD Tech modpack
 This resourcepack is based on Faithful 32x32, adding textures to items and blocks from other mods to complete initial resourcepack
 
 --------------------------------------------------------------------------------
+v1.3-1.3.9
+
++ added textures for sulfur and potassium
++ added textures for ores and gems in biomesoplenty
++ added textures for some plants in biomesoplenty
++ added textures for gems, its ores and blocks
++ added texture for malachite from biomesoplenty
++ added textures for cherry log and leaves from biomesoplenty
++ added textures for tools from HC
++ added textures for juicer and fresh milk and water from HC
++ added texture for sealant from BC
++ added textures for HC
+
 v1.2.1
 
 + Added textures for resin, plant ball, circuits, cf powder, and reinforced glass from IC2
