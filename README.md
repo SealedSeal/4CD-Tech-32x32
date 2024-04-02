@@ -4,6 +4,17 @@ Resourcepack for 4CD Tech modpack
 This resourcepack is based on Faithful 32x32, adding textures to items and blocks from other mods to complete initial resourcepack
 
 --------------------------------------------------------------------------------
+1.3.10
+
++ added textures for scaffolds from IC2
++ added textures for glass cables from IC2
++ added textures for splitter and detector cables from IC2
++ added texture for tree from IC2
++ added texture for single use battery from IC2
++ added textures for re battery from IC2
++ added textures for tin can and filled tin can from IC2
++ added texture for scrap from IC2
+
 v1.3-1.3.9
 
 + added textures for sulfur and potassium
