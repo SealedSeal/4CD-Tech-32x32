@@ -4,6 +4,10 @@ Resourcepack for 4CD Tech modpack
 This resourcepack is based on Faithful 32x32, adding textures to items and blocks from other mods to complete initial resourcepack
 
 --------------------------------------------------------------------------------
+1.3.11
+
++ added textures for drill from thermalinnovation
+  
 1.3.10
 
 + added textures for scaffolds from IC2
