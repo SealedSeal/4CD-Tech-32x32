@@ -4,6 +4,18 @@ Resourcepack for 4CD Tech modpack
 This resourcepack is based on Faithful 32x32, adding textures to items and blocks from other mods to complete initial resourcepack
 
 --------------------------------------------------------------------------------
+1.3.12
+
++ added textures for coffee from IC2
++ added textures for iridium ore and its shard from IC2
++ added textures for some nuclear resources from IC2
++ added textures for dynamite from IC2
++ added textures for items from backpacks mod
++ added textures for tanks from irontanks
++ added textures for some gardens from HC
++ added textures for some plants from biomesoplenty
++ added textures for saw from thermalinnovation
+
 1.3.11
 
 + added textures for drill from thermalinnovation
