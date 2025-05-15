@@ -4,6 +4,12 @@ Resourcepack for 4CD Tech modpack
 This resourcepack is based on Faithful 32x32, adding textures to items and blocks from other mods to complete initial resourcepack
 
 --------------------------------------------------------------------------------
+1.3.13
+
++ fixed textures for fresh water and fresh milk from HC
++ added textures for some plants from biomesoplenty
++ added textures for drinks from Pam's Brewcraft
+  
 1.3.12
 
 + added textures for coffee from IC2
